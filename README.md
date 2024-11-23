@@ -1,4 +1,4 @@
-# Peer-Graded Assignment: Building a Dashboard with IBM Cognos Analytics
+#  Building a Dashboard with IBM Cognos Analytics
 
 ## Current Technology Usage
 
